@@ -37,7 +37,7 @@ public class Team {
                        a.info();
 
                    }
-               System.out.println();
+
 
                }
 
